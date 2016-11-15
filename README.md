@@ -4,7 +4,7 @@ Einkaufsliste Eben
 
 Das bin ich : 
 
-[alt text] (https://github.com/olithebig/Einkaufsliste/blob/foto/bild.jpg)
+[alt text] (http://images.tagseoblog.de/bilder/bild-foto/bild.jpg)
 
 Ich bin geboren am 3.4.1023 
 
