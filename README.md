@@ -4,7 +4,7 @@ Einkaufsliste Eben
 
 Das bin ich : 
 
-[alt text] (/bild.jpg)
+
 
 Ich bin geboren am 3.4.1023 
 
