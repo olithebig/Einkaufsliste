@@ -4,7 +4,7 @@ Einkaufsliste Eben
 
 Das bin ich : 
 
-[Ein Bild] (http://images.tagseoblog.de/bilder/bild-foto/bild.jpg)
+![Ein Bild] (bild.jpg)
 
 Ich bin geboren am 3.4.1023 
 
